@@ -22,3 +22,5 @@
 
 и чтобы вернуться:
 > git checkout master
+
+![Вечерний Пятигорск](Pyatigorsk-zakat.jpg)
